@@ -31,7 +31,8 @@ Single carriageways had by far the highest number of accidents — almost half o
  
 5 PM was the clear peak ⚠️ — evening rush hour. Things quieten down after that, and between 2 AM and 4 AM you're safest on the roads — hardly any accidents at all then 🌙
  
- 
+ 📈 *Trend Over Time* → [View Screenshot](Trend_Over_Time.png)
+Shows accident volumes year by year. Accident numbers have generally declined in recent years — a positive sign for road safety.
  
  
 Thanks for stopping by! 😊
