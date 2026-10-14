@@ -32,15 +32,19 @@ Single carriageways had by far the highest number of accidents — almost half o
 5 PM was the clear peak ⚠️ — evening rush hour. Things quieten down after that, and between 2 AM and 4 AM you're safest on the roads — hardly any accidents at all then 🌙
  
  📈 *Trend Over Time* → [View Screenshot](Trend_Over_Time.png)
+ 
 Shows accident volumes year by year. Accident numbers have generally declined in recent years — a positive sign for road safety.
 
  📅 *Day of Week Analysis* → [View Screenshot](Day_of_the_week_Analysis.png)
+ 
  Which days are busiest? Friday has the highest number of accidents, probably end-of-week traffic. Sunday is the quietest and safest day
 
  🛣️ *Road Class Analysis* → [View Screenshot](Road_Class_Analysis.png)
+ 
 Breakdown by road type. Single carriageways account for nearly half of all accidents — the highest-risk category. Interestingly, motorways show the lowest accident rate.
 
 🕐 *Time of Day Analysis* → [View Screenshot](Time_of_the_day_Analysis.png)
+
 Accidents across 24 hours. Numbers rise through the day, peak clearly at 5 PM — evening rush hour — then gradually fall. Quietest time is between 2 AM and 4 AM.
  
 Thanks for stopping by! 😊
