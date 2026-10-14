@@ -39,5 +39,8 @@ Shows accident volumes year by year. Accident numbers have generally declined in
 
  🛣️ *Road Class Analysis* → [View Screenshot](Road_Class_Analysis.png)
 Breakdown by road type. Single carriageways account for nearly half of all accidents — the highest-risk category. Interestingly, motorways show the lowest accident rate.
+
+🕐 *Time of Day Analysis* → [View Screenshot](Time_of_the_day_Analysis.png)
+Accidents across 24 hours. Numbers rise through the day, peak clearly at 5 PM — evening rush hour — then gradually fall. Quietest time is between 2 AM and 4 AM.
  
 Thanks for stopping by! 😊
