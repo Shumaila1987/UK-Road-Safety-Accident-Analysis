@@ -33,6 +33,7 @@ Single carriageways had by far the highest number of accidents — almost half o
  
  📈 *Trend Over Time* → [View Screenshot](Trend_Over_Time.png)
 Shows accident volumes year by year. Accident numbers have generally declined in recent years — a positive sign for road safety.
- 
+ 📅 *Day of Week Analysis* → [View Screenshot](Day_of_the_week_Analysis.png)
+ Which days are busiest? Friday has the highest number of accidents, probably end-of-week traffic. Sunday is the quietest and safest day
  
 Thanks for stopping by! 😊
