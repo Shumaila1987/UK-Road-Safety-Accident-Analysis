@@ -46,5 +46,13 @@ Breakdown by road type. Single carriageways account for nearly half of all accid
 🕐 *Time of Day Analysis* → [View Screenshot](Time_of_the_day_Analysis.png)
 
 Accidents across 24 hours. Numbers rise through the day, peak clearly at 5 PM — evening rush hour — then gradually fall. Quietest time is between 2 AM and 4 AM.
+
+📁 Source Data
+ 
+Original dataset downloaded from Kaggle — UK Road Safety Accidents Dataset
+ 
+Due to the large file size, I haven't uploaded the raw CSV here. You can download the full dataset directly from Kaggle here:
+ 
+[https://www.kaggle.com/shumailazubair]
  
 Thanks for stopping by! 😊
